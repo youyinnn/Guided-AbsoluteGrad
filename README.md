@@ -1,3 +1,3 @@
 # Guided-AbsoluteGrad
 
-The codebase should be ready by June 1st.
+The codebase should be ready by July 20th.
