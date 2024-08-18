@@ -37,8 +37,6 @@ def get_dataset(key):
     if data_set_map.get(key) is None:
         if key == "imagenet_seg":
             data_set_map[key] = ImageNetSeg()
-        if key == "imagenet919":
-            data_set_map[key] = get_imagenet_919_for_explanation(split_seed=42)
 
     return data_set_map.get(key)
 

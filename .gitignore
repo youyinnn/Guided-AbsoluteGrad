@@ -1,3 +1,10 @@
 __pycache__
 
 .DS_Store
+
+data
+*.zip
+*.tar
+*.pth
+
+evaluation_result
