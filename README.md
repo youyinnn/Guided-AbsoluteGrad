@@ -6,7 +6,7 @@ This is the official implementation for Guided AbsoluteGrad. For more details, p
 
 ### Quick Navigator
 
-- `cv_exp/gradient/_guided_absolute_grad.py`: implementation of the Guided Absolute Grad;
+- `cv_exp/gradient/_guided_absolute_grad.py`: implementation of the Guided AbsoluteGrad;
 - `cv_exp/eval/rcap_eval.py`: implementation of RCAP evaluation for saliency maps;
 
 
